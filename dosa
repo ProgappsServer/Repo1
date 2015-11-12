@@ -1,0 +1,60 @@
+[33mcommit ab9153c5fcee114c746151ae81a9b697b2d0b338[m
+Merge: 06a5d6b 4b019e3
+Author: 2133448 <iam@yahoo.com>
+Date:   Thu Nov 12 16:44:31 2015 +0800
+
+    resolved conflict
+
+[33mcommit 4b019e35eb90f163918b889b95a10c9f400f9934[m
+Author: 2133448 <iam@yahoo.com>
+Date:   Thu Nov 12 16:39:14 2015 +0800
+
+    added file
+
+[33mcommit 06a5d6bf0ff1ec340822ebfc949d4bec0bac36e4[m
+Author: 2133448 <iam@yahoo.com>
+Date:   Thu Nov 12 16:33:07 2015 +0800
+
+    Added file.
+
+[33mcommit cdbabd6dda0c1f1159d8f90baaec130d9b14c6a3[m
+Author: ericfajardocollado <ercfjrd.collado0602@gmail.com>
+Date:   Thu Nov 12 16:24:35 2015 +0800
+
+    hello
+
+[33mcommit 8adc18a93187a02dd43b13721246f27f2ea1a7b5[m
+Author: ericfajardocollado <ercfjrd.collado0602@gmail.com>
+Date:   Thu Nov 12 16:09:06 2015 +0800
+
+    edit again
+
+[33mcommit c78ba47b50b4892823ebe535cfd13b0e6650cf90[m
+Author: 2133448 <iam@yahoo.com>
+Date:   Thu Nov 12 16:06:54 2015 +0800
+
+    .
+
+[33mcommit 4bed2f88a7560a3922d178304eebab129968247a[m
+Author: ericfajardocollado <ercfjrd.collado0602@gmail.com>
+Date:   Thu Nov 12 16:01:39 2015 +0800
+
+    definition added
+
+[33mcommit 918d3f67f0e9e4228c24722fd0276f164c613fa7[m
+Author: 2133448 <iam@yahoo.com>
+Date:   Thu Nov 12 15:58:07 2015 +0800
+
+    History added.
+
+[33mcommit 6049d8a117c628dc356d6d2ab7c4e87e7c2a42b7[m
+Author: progappsServer <applesquadrion@gmail.com>
+Date:   Thu Nov 12 15:52:06 2015 +0800
+
+    Initial Template
+
+[33mcommit 492d9cf34be310983c6ca05152d6f6a012f09d59[m
+Author: ProgappsServer <applesquadrion@gmail.com>
+Date:   Thu Nov 12 15:48:56 2015 +0800
+
+    Initial commit
